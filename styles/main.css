@@ -155,8 +155,13 @@ footer {
     }
 
 }
-@media (max-width: 767px){
+@media (min-width: 320px){
     #food{
         height: 200px;
+    }
+}
+@media (min-width: 530px){
+    #food{
+        height: auto;
     }
 }
