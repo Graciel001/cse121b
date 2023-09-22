@@ -155,3 +155,8 @@ footer {
     }
 
 }
+@media (max-width: 767px){
+    #food{
+        height: 200px;
+    }
+}
